@@ -1,5 +1,6 @@
-# Exercicio git e github php
- Teste sobro um repositorio
-Teste
+<?php
+echo "Exercicio git e github php";
+echo "Teste sobro um repositorio";
+echo "Teste";
 
 
